@@ -1,0 +1,1 @@
+select * from sys.availability_group_listeners
